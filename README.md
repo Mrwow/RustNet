@@ -1,6 +1,8 @@
 # RustNet
 A neural network to detect wheat stripe rust with images from drones, smartphones and videos.
 
+<a href="http://Mrwow.github.io/RustNet"> <p align="center"><img src = "docs/img/logo.png" width = 150></p> </a>
+
 # To training a model
 
 usage: tf_resnet_cl.py [-h] [--gpu GPU] [--data DATA] [--out OUT]
