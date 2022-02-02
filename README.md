@@ -1,4 +1,4 @@
-# <a href="http://Mrwow.github.io/RustNet"><img src = "docs/img/logo.png" width = 40></a>   RustNet
+# <a href="https://zzlab.net/RustNet/"><img src = "docs/img/logo.png" width = 40></a>   RustNet
 A neural network to detect wheat stripe rust with images from drones, smartphones and videos.
 
 # To training a model
