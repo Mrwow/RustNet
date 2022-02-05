@@ -21,9 +21,17 @@ optional arguments:
   --out OUT, -o OUT     prefix for the output files (parameters file and training accuracy png file)
 ```
 
+The parameters can be download from <a href="https://zzlab.net/RustNet/"> here </a>
+
 
 # Training and labeling with Rooster
 The RustNet can be used together with a label tool, <a href="https://github.com/12HuYang/Rooster"> Rooster </a>.
 
+# launch a web app in your own computer to detect the stripe rust
 
+```
+
+streamlit run app.py
+
+```
 
