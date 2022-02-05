@@ -21,11 +21,9 @@ optional arguments:
   --out OUT, -o OUT     prefix for the output files (parameters file and training accuracy png file)
 ```
 
-# Download the parameters
-
-# Demo
 
 # Training and labeling with Rooster
+The RustNet can be used together with a label tool, <a href="https://github.com/12HuYang/Rooster"> Rooster </a>.
 
 
 
